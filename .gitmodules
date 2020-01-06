@@ -1,0 +1,3 @@
+[submodule "secure-private-ai/private-ai"]
+	path = secure-private-ai/private-ai
+	url = https://github.com/AmrMKayid/private-ai.git
